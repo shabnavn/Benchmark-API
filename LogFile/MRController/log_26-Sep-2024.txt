@@ -1,0 +1,26 @@
+26-Sep-2024 15:15:14-==========MRH Listing Started==========
+26-Sep-2024 15:15:16-==========Query Executed==========
+26-Sep-2024 15:15:16-==========Row Count Equal To 0==========
+26-Sep-2024 15:15:16-==========MRH Listing End==========
+26-Sep-2024 15:17:34-==========MRH Listing Started==========
+26-Sep-2024 15:17:34-==========Query Executed==========
+26-Sep-2024 15:17:34-==========Row Count Equal To 0==========
+26-Sep-2024 15:17:34-==========MRH Listing End==========
+26-Sep-2024 15:17:42-==========MRH Listing Started==========
+26-Sep-2024 15:17:43-==========Query Executed==========
+26-Sep-2024 15:19:38-==========MRH Listing Started==========
+26-Sep-2024 15:19:40-==========Query Executed==========
+26-Sep-2024 15:19:40-==========Row Count Greated Than 0==========
+26-Sep-2024 15:19:40-==========Exception Caught System.ArgumentException: Column 'war_ArabicName' does not belong to table SelectMRHeader.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at MVC_API.Controllers.MRController.ListMRH(ListMRHinParam inParams) in C:\Turbosoft Projects\SFAAPI\SFA API\SFA MVC API\Controllers\MRController.cs:line 41==========
+26-Sep-2024 15:19:40-==========MRH Listing End==========
+26-Sep-2024 15:19:46-==========MRH Listing Started==========
+26-Sep-2024 15:19:47-==========Query Executed==========
+26-Sep-2024 15:19:48-==========Row Count Greated Than 0==========
+26-Sep-2024 15:21:28-==========Exception Caught System.ArgumentException: Column 'war_ArabicName' does not belong to table SelectMRHeader.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at MVC_API.Controllers.MRController.ListMRH(ListMRHinParam inParams) in C:\Turbosoft Projects\SFAAPI\SFA API\SFA MVC API\Controllers\MRController.cs:line 41==========
+26-Sep-2024 15:21:28-==========MRH Listing End==========

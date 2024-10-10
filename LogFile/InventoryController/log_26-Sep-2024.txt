@@ -1,0 +1,30 @@
+26-Sep-2024 18:32:25-PostInventoryReconfirmation STARTED -26-09-2024 18:32:25
+26-Sep-2024 18:32:25-====================
+26-Sep-2024 18:32:26- PostInventoryReconfirmation Exception - Invalid property identifier character: {. Path '[0].IsExcessOrShortage', line 1, position 221.
+26-Sep-2024 18:32:26-Invalid property identifier character: {. Path '[0].IsExcessOrShortage', line 1, position 221.
+26-Sep-2024 18:32:26-PostInventoryReconfirmation ENDED - 26-09-2024 18:32:26
+26-Sep-2024 18:32:26-==================
+26-Sep-2024 18:33:31-PostInventoryReconfirmation STARTED -26-09-2024 18:33:31
+26-Sep-2024 18:33:31-====================
+26-Sep-2024 18:33:45- PostInventoryReconfirmation Exception - Invalid property identifier character: {. Path '[0].IsExcessOrShortage', line 1, position 221.
+26-Sep-2024 18:33:45-Invalid property identifier character: {. Path '[0].IsExcessOrShortage', line 1, position 221.
+26-Sep-2024 18:33:45-PostInventoryReconfirmation ENDED - 26-09-2024 18:33:45
+26-Sep-2024 18:33:45-==================
+26-Sep-2024 18:33:57-PostInventoryReconfirmation STARTED -26-09-2024 18:33:57
+26-Sep-2024 18:33:57-====================
+26-Sep-2024 18:37:21- PostInventoryReconfirmation Exception - Value cannot be null.
+Parameter name: value
+26-Sep-2024 18:37:21-Value cannot be null.
+Parameter name: value
+26-Sep-2024 18:37:21-PostInventoryReconfirmation ENDED - 26-09-2024 18:37:21
+26-Sep-2024 18:37:21-==================
+26-Sep-2024 18:40:06-PostInventoryReconfirmation STARTED -26-09-2024 18:40:06
+26-Sep-2024 18:40:07-====================
+26-Sep-2024 18:40:59- PostInventoryReconfirmation Exception - Value cannot be null.
+Parameter name: value
+26-Sep-2024 18:40:59-Value cannot be null.
+Parameter name: value
+26-Sep-2024 18:40:59-PostInventoryReconfirmation ENDED - 26-09-2024 18:40:59
+26-Sep-2024 18:40:59-==================
+26-Sep-2024 18:45:06-PostInventoryReconfirmation STARTED -26-09-2024 18:45:06
+26-Sep-2024 18:45:06-====================

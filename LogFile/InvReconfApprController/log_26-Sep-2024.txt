@@ -1,0 +1,3 @@
+26-Sep-2024 18:07:18-PostInvReconfApproval STARTED -26-09-2024 18:07:18
+26-Sep-2024 18:07:19-====================
+26-Sep-2024 18:07:26- PostInvReconfApproval Json : [{"PrdID":"92","HUOM":"2","HQTY":"1","LUOM":"0","LQTY":"0","PhyHUOM":"1","PhyHQTY":"1","PhyLUOM":"2","PhyLQTY":"1","DescHUOM":"1","DescHQTY":"1","DescLUOM":"0","DescLQTY":"0","Isvanstockitms":"Y","IsExcessOrShortage":"E"},{"PrdID":"1","HUOM":"0","HQTY":"0","LUOM":"0","LQTY":"0","PhyHUOM":"1","PhyHQTY":"1","PhyLUOM":"2","PhyLQTY":"1","DescHUOM":"1","DescHQTY":"1","DescLUOM":"2","DescLQTY":"1","Isvanstockitms":"N","IsExcessOrShortage":"E"}]
